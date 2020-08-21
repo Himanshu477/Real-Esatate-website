@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Squada+One&display=swap');
+
+h1,h3,h5{
+	font-family: 'Bebas Neue', cursive;
+}
+p{
+	font-family: 'Rubik', sans-serif;
+}
+#ser .btn{
+	font-family: 'Squada One', cursive;
+}
+.carousel-item img{
+	height: 600px;
+}
+#mage img{
+	height: 300px;
+	width: 90%;
+}
+#ser .card-img-top{
+	font-size: 100px;
+}
+#ser .row{
+	display: flex;
+	justify-content: space-around;
+}
+#gal img{
+	height: 300px;
+	width: 100%;
+}
+#foot img{
+	height: 100px;
+	width: 100px;
+}
+#foot .row{
+	font-size: 20px;
+}
+#serv .card-img-top{
+	font-size: 100px;
+}
+#serv .card{
+	background-color: #C1F0F6;
+}
+#serv .card:hover{
+     background-color: #39B7CD;
+}
+#gall img{
+	height: 500px;
+	width: 100%;
+}
+#gall img:hover{
+	transition: transform 0.5s;
+    transform:scale(1.1);
+}
